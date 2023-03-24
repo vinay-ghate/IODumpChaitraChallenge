@@ -11,7 +11,7 @@ Once you've completed today's challenge, feel free to share your code on Github.
 Good luck, and happy coding! 🙌
 
 
-Day 1:
+### Day 1:
 The task was to find the largest and smallest numbers out of the given 5
 
 
