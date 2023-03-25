@@ -14,6 +14,12 @@ Good luck, and happy coding! 🙌
 ### Day 1:
 The task was to find the largest and smallest numbers out of the given 5
 
+### Day 2:
+Program to check whether the given character is vowel or consonant.💻🚀
+
+### Day 3:
+Program to find the area of a triangle, rectangle, and square.💻🚀
+
 
 
 
