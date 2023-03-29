@@ -23,7 +23,7 @@ Program to find the area of a triangle, rectangle, and square.💻🚀
 ### Day 4:
 Program to find volume of sphere and cylinder.💻🚀
 
-### Day 4:
+### Day 5:
 Program to print sum of first n numbers 👨‍💻
 
 
