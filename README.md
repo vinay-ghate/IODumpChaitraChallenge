@@ -26,7 +26,11 @@ Program to find volume of sphere and cylinder.💻🚀
 ### Day 5:
 Program to print sum of first n numbers 👨‍💻
 
+### Day 6:
+Program to convert given temperature from Fahrenheit to Celsius.💻🚀
 
+### Day 7:
+Program to check whether the input received from user is prime or not.💻🚀
 
 
 Join this group to participate into this challenge 👇

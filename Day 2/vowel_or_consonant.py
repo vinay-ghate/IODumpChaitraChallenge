@@ -1,7 +1,7 @@
 #Program to check whether the given character is vowel or consonant.💻🚀
 
 x = input()
-if x in 'aeiou':
+if x in 'aeiouAEIOU':
     print("Its Vowel")
 else:
     print("Its Consonant")
