@@ -32,6 +32,9 @@ Program to convert given temperature from Fahrenheit to Celsius.💻🚀
 ### Day 7:
 Program to check whether the input received from user is prime or not.💻🚀
 
+### Day 8:
+Program to print multiplication table of a number using for loop💻🚀
+
 
 Join this group to participate into this challenge 👇
 bit.ly/IODUMPdsa
