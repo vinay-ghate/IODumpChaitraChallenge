@@ -38,8 +38,9 @@ Program to print multiplication table of a number using for loop💻🚀
 ### Day 9:
 Program to find factorial of given number.💻🚀
 
-### Day 9:
+### Day 10:
 Accept the height of a person in cm and convert it to feet.💻🚀
+
 
 Join this group to participate into this challenge 👇
 bit.ly/IODUMPdsa
