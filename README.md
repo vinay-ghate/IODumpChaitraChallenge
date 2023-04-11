@@ -41,6 +41,8 @@ Program to find factorial of given number.💻🚀
 ### Day 10:
 Accept the height of a person in cm and convert it to feet.💻🚀
 
+### Day 11:
+Program to find length of string without using inbuilt function.💻🚀
 
 Join this group to participate into this challenge 👇
 bit.ly/IODUMPdsa
